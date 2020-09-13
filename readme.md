@@ -68,5 +68,5 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ![dameskleding](images/dameskleding.png)
 
 **Breakdown-schets(en):**
-
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
+![homepagina breakdownschets](images/homepagina-breakdownschets.png)
+![productoverzicht breakdownschets](images/productoverzicht-breakdownschets.png)

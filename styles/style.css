@@ -1,5 +1,137 @@
 /* CSS Document */
 *, *::after, *::before {
-  box-sizing:border-box;  
+  box-sizing:border-box;
 }
 
+html{
+  font-size: 62.5%;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body{
+  margin: unset;
+}
+
+a:visited{
+  color: unset;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+header>section:first-of-type{
+  display: flex;
+  justify-content: space-between;
+  background-color: #0090e3;
+  height: 44px;
+}
+
+header>section:first-of-type i{
+  font-size: 24px;
+  color: white;
+}
+
+header>section:first-of-type button{
+  border: unset;
+  background-color: unset;
+}
+
+header img{
+  height: 44px;
+  width: auto;
+}
+
+header nav{
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+}
+
+header nav>ul{
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+}
+
+header nav>ul{
+  display: flex;
+  align-items: center;
+}
+
+header>section:last-of-type{
+  display: flex;
+  padding: 5px;
+  background-color: #f2f7fc;
+}
+
+header>section:last-of-type input{
+  border: 1px solid #dddddd;
+  border-radius: 4px 0 0 4px;
+  height: 3.4rem;
+  line-height: 3.2rem;
+  width: 100%;
+  padding-left: 12px;
+  
+}
+
+header>section:last-of-type button{
+  background-color: #0090e3;
+  color: white;
+  border: 1px solid #0090e3;
+  border-radius: 0 4px 4px 0;
+}
+
+header>section:last-of-type button>i{
+  font-size: 20px;
+  padding: 0 3px;
+}
+
+#ticker>p>i{
+  color: #00b900 ;
+}
+
+#ticker>p>span{
+  color: #ff6600;
+  font-weight: 600;
+}
+
+#reclame1 {
+  border-bottom: 1px solid #dddddd;
+}
+
+#reclame1>img{
+  width: 100%;
+  display: block;
+}
+.categorie{
+  border:1px solid #dddddd;
+  border-radius: 4px;
+  width: 167px;
+  height: 160px;
+}
+.categorie>a>img{
+  background-color:#f2f7fc;
+  width: 100%;
+}
+
+.categorie>a{
+  text-decoration: none;
+  text-align: center;
+}
+
+.categorie>a>p{
+  color:#0090e3;
+}
+
+.scroller{
+  overflow-x: scroll;
+}
+
+.scroller>div{
+  display: flex;
+  padding: 10px;
+  width: 300%;
+}

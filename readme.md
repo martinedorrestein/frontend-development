@@ -60,12 +60,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** responsive
 
-**Je opdracht:** https://www.bol.com/nl/
+**Je opdracht:** https://www.coolblue.nl/
 
 **Screenshot(s):**
 
-![homepagina](images/homepagina.png)
-![dameskleding](images/dameskleding.png)
+![homepagina](images/home.png)
+![smartwatches overzicht](images/smartwatches.png)
 
 **Breakdown-schets(en):**
 ![homepagina breakdownschets](images/homepagina-breakdownschets.png)

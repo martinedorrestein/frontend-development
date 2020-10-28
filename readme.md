@@ -1,5 +1,5 @@
 # Procesverslag
-**Auteur:** -jouw naam-
+Martine Dorrestein 
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
@@ -22,17 +22,17 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 
-## Voortgang 3 (week 6)
+## Voortgang 3 (Met Sanne, ik ga tijdens mijn eerste gesprek Sanne zijn verbeteringen noteren en hier opschrijven.)
 
 -same as voortgang 1-
 
 
 
-## Voortgang 2 (week 5)
+## Voortgang 2 (Met Janno)
 
 ### Stand van zaken
 
-Afgelopen twee weken ben ik ziek geweest waardoor ik niks heb gedaan. Echter heb ik nu wel de keuze gemaakt om in plaats van Bol.com toch voor Coolblue te gaan aangezien deze website minder complex in elkaar steekt. Daarnaast heb ik ook een breakdownschets voor Coolblue gemaakt.
+Dit is hoe mijn code er voor het gesprek met Janno uitziet. Janno zag al snel veel fouten in mijn code. Ik had bijvoorbeeld de naam met een hoofdletter gedaan en geen notities toegevoegd. Dit maakte het erg onoverzichtelijk. 
 
 **Screenshot(s):**
 
@@ -136,17 +136,24 @@ Afgelopen twee weken ben ik ziek geweest waardoor ik niks heb gedaan. Echter heb
 
 ### Agenda voor meeting
 
-- Hoe maak ik een slideshow?
-- Hoe voeg ik een afbeelding toe?
-- Kan je mijn 
+- Wat vind je van mijn code?
+- Hoe kan ik overzicht creeëren?
+- Hoe kan ik inline elementen een andere kleur geven?
+- Hoe kan ik alles overzichtelijk noteren?
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+Ik heb erg veel aan dit feedback moment gehad. Janno heeft mij het volgende uitgelegd;
+- Hoe ik meer overzicht kan creeëren in mijn html pagina.
+- Hoe ik bestanden moet opslaan.
+- Hoe ik inline elementen een andere kleur kan geven, dit heb ik gedaan door middel van <span>. Dit was voor mij nog onbekend.
+- Dat ik mijn gehele html pagina in het engels moet schrijven zodat het ook overzichtelijk is voor andere webontwikkelaars in de toekomst.
+- Janno heeft mij laten zien hoe ik via de terminal de website aan Github kan linken. Ik moet eerlijk zeggen dat ik er niet veel van begreep en dat Janno uiteindelijk hierbij de overhand nam. 
+- Janno heeft mij kennis laten maken met <span> elementen, hij heeft verteld dat dit een inline element is. Dit heb ik uiteindelijk erg veel toegepast op mijn html.
 
 
 
-## Voortgang 1 (week 3)
+## Voortgang 1 (Met studentenassistenten)
 
 ### Stand van zaken
 
@@ -154,17 +161,19 @@ Afgelopen twee weken ben ik ziek geweest waardoor ik niks heb gedaan. Echter heb
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+Zie de Breakdown schets van Coolblue bij bestanden.
 
 ### Agenda voor meeting
 
 - Hoe maak ik een slideshow?
 - Hoe voeg ik een afbeelding toe?
-- Kan je mijn 
+- Kan je mijn code nakijken?
+- Hoe plak ik een svg bestand in mijn html?
+- Moet ik ook de het hamburgermenu overnemen?
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+Dit was mijn eerste voortgang gesprek samen met de studentenassistenten. Ik heb veel vragen gesteld waarbij de studenten en andere klasgenoten mij hebben geholpen. Helaas had ik geen tijd om mijn code te laten zien, dit ga ik een andere keer doen. Wat ze zagen vonden ze in iedergeval goed eruit zien, echter loop ik wel nog flink achter.
 
 
 

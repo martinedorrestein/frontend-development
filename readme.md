@@ -152,7 +152,7 @@ Ik heb erg veel aan dit feedback moment gehad. Janno heeft mij het volgende uitg
 Het stappenplan ziet er als volgt uit;
 cd desktop
 cd frontend-development
-git add.
+git add .
 git commit -m "commit message"
 git push
 

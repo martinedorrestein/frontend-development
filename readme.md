@@ -148,7 +148,15 @@ Ik heb erg veel aan dit feedback moment gehad. Janno heeft mij het volgende uitg
 - Hoe ik bestanden moet opslaan.
 - Hoe ik inline elementen een andere kleur kan geven, dit heb ik gedaan door middel van <span>. Dit was voor mij nog onbekend.
 - Dat ik mijn gehele html pagina in het engels moet schrijven zodat het ook overzichtelijk is voor andere webontwikkelaars in de toekomst.
-- Janno heeft mij laten zien hoe ik via de terminal de website aan Github kan linken. Ik moet eerlijk zeggen dat ik er niet veel van begreep en dat Janno uiteindelijk hierbij de overhand nam. 
+- Janno heeft mij laten zien hoe ik via de terminal de website aan Github kan linken. Ik moet eerlijk zeggen dat ik er niet veel van begreep en dat Janno uiteindelijk hierbij de overhand nam. Uiteindelijk heb ik dit aangegeven bij Janno en hebben wij samen een stappenplan gemaakt om via Git bash mijn code naar Github te sturen.
+Het stappenplan ziet er als volgt uit;
+cd desktop
+cd frontend-development
+git add.
+git commit -m "commit message"
+git push
+
+
 - Janno heeft mij kennis laten maken met <span> elementen, hij heeft verteld dat dit een inline element is. Dit heb ik uiteindelijk erg veel toegepast op mijn html.
 
 
